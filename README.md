@@ -1,4 +1,4 @@
-# Getting Your Ads Insights
+## Getting Your Ads Insights
 
 Example Code with Facebook Business SDK for PHP to get your ads insights
 
